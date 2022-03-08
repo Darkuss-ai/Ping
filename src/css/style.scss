@@ -1,0 +1,12 @@
+@import "constant";
+
+*{padding: 0; margin: 0;}
+
+html, body
+{
+    background: radial-gradient($color2 10%, $color1 90%) no-repeat fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{color: $text_color_theme1;}

@@ -1,0 +1,62 @@
+@import "constant";
+.main_footer
+{
+  z-index: -2;
+  display: flex;
+  position: absolute;
+  background: $color1;
+  bottom: 0;
+  left: 0;
+  height: 100px;
+  width: 100%;
+  .info
+  {
+
+    display: flex;
+    justify-items: center;
+    justify-self: center;
+
+    margin: 0 $indent;
+    height: 100%;
+    width: 300px;
+    .avatar
+    {
+
+      position: relative;
+      margin: auto 0;
+      display: flex;
+      justify-items: center;
+      height: 80px;
+      width: 80px;
+      border-radius: 500px;
+      background: white;
+      border: 6px solid $color2 ;
+      //&:before
+      //{
+      //  position: absolute;
+      //  z-index: -1;
+      //  height: 90px;
+      //  width: 90px;
+      //  content: "";
+      //  background: $color2;
+      //  //filter: blur(3px);
+      //}
+    }
+    .bio
+    {
+      color: white;
+      margin: auto $indent;
+      #Nickname
+      {
+        font-size: 25px;
+      }
+    }
+  }
+  .navigation
+  {
+    display: flex;
+    justify-items: center;
+
+  }
+}
+
