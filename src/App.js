@@ -2,7 +2,7 @@ import React from 'react';
 import Login_page from "./pages/Login";
 import Main_page from "./pages/Main";
 
-import Login from "./store/login"
+import AppStore from "./store/appStore"
 import './css/style.css'
 
 import {observer} from "mobx-react-lite";
@@ -13,15 +13,21 @@ const App = observer( () =>
 {
     const [cookies] = useCookies(["ping"]);
 
-    if(cookies.ping !== undefined)
-        Login.Auth(cookies.ping)
+    // if(cookies.ping !== undefined)
+    //     AppStore.Auth(cookies.ping)
 
     return (
     <CookiesProvider>
         <Routes>
-            <Route path = '/'   element={!Login.status? <Login_page/>: <Navigate to='/id' />} />
-            <Route path = '/id' element={Login.status? <Main_page/>: <Navigate to='/' />}/>
-            <Route path = "*"   element={Login.status? <Navigate to='/id' />: <Navigate to='/' />}/>
+            <Route path = '/' 
+            element={AppStore.loginStatus === 'notAuth'? <Login_page/>: <Navigate to='/id' />} 
+            />
+            <Route path = '/id'
+            element={AppStore.loginStatus === 'auth' ? <Main_page/>: <Navigate to='/' />}
+            />
+            <Route path = "*" 
+            element={AppStore.loginStatus === 'auth' ? <Navigate to='/id' />: <Navigate to='/' />}
+            />
         </Routes>
     </CookiesProvider>
     )

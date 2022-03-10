@@ -3,7 +3,7 @@ import React from "react";
 import {useNavigate } from 'react-router-dom'
 import { useCookies } from 'react-cookie';
 
-import  Login from '../store/login'
+import  AppStore from '../store/appStore'
 
 import {Logo} from '../components/logo';
 import {Forms} from "../components/forms";
@@ -19,11 +19,12 @@ const Login_page = () =>
     const onSubmit = (data) =>
     {
         const status = 'OK'
+
         if(status === 'OK')
         {
-            Login.Auth(data.login)
+            AppStore.SetLoginStatus('auth')
             setCookie('ping', data.login, {path: '/'})
-            navigate('/id')
+            //navigate('/id')
         }
     }
 

@@ -7,14 +7,16 @@
   left: 50%;
   margin-left: -150px;
 }
+
 .wrapper .text {
-  font-family: "Goldman", cursive;
+  font-family: 'Goldman', cursive;
   text-align: center;
   font-size: 100px;
   text-shadow: -15px 5px 20px #404040;
   z-index: 1;
   color: white;
 }
+
 .wrapper .drop {
   height: 18px;
   width: 18px;
@@ -23,20 +25,39 @@
   position: absolute;
   top: 67%;
   left: 24.85%;
-  transform: translate(120%, -240%) scaleX(0.5);
-  animation: move 2s ease infinite;
+  -webkit-transform: translate(120%, -240%) scaleX(0.5);
+          transform: translate(120%, -240%) scaleX(0.5);
+  -webkit-animation: move 2s ease infinite;
+          animation: move 2s ease infinite;
+}
+
+@-webkit-keyframes move {
+  0% {
+    -webkit-transform: translate(120%, -240%) scaleY(0.9);
+            transform: translate(120%, -240%) scaleY(0.9);
+  }
+  50% {
+    -webkit-transform: translate(120%, -400%) scaleX(0.5);
+            transform: translate(120%, -400%) scaleX(0.5);
+  }
+  100% {
+    -webkit-transform: translate(120%, -240%) scaleY(0.9);
+            transform: translate(120%, -240%) scaleY(0.9);
+  }
 }
 
 @keyframes move {
   0% {
-    transform: translate(120%, -240%) scaleY(0.9);
+    -webkit-transform: translate(120%, -240%) scaleY(0.9);
+            transform: translate(120%, -240%) scaleY(0.9);
   }
   50% {
-    transform: translate(120%, -400%) scaleX(0.5);
+    -webkit-transform: translate(120%, -400%) scaleX(0.5);
+            transform: translate(120%, -400%) scaleX(0.5);
   }
   100% {
-    transform: translate(120%, -240%) scaleY(0.9);
+    -webkit-transform: translate(120%, -240%) scaleY(0.9);
+            transform: translate(120%, -240%) scaleY(0.9);
   }
 }
-
 /*# sourceMappingURL=logo.css.map */
