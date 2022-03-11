@@ -34,7 +34,8 @@ namespace ChatClient{
  
         static void Main(string[] args){
            
-            Root JSON = JsonParse("../testUsername.json");
+            Root JSON = JsonParse("../testUsername.json"); //Просто передаём в функцию нужный для
+                                                          // парса файл и в переменной будет то, что нам необходимо.
 
             userName = JSON.username; //Теперь можем использовать оператор . по отношению к полям нашего Json
             
