@@ -21,21 +21,23 @@ namespace ChatClient{
         static NetworkStream stream;
 
 
-        static string JsonParse(string str){
-            StreamReader streamReader = new StreamReader("../testUsername.json"); // Читаем Json файл
+        static Root JsonParse(string path){
+            string str = "";
+            StreamReader streamReader = new StreamReader(path); // Читаем Json файл
  
             while (!streamReader.EndOfStream) { // До конца файла
                 str += streamReader.ReadLine();  // Вписываем в строку весь файл 
             }
-            return str; // Возвращаем
+            Root des = JsonConvert.DeserializeObject<Root>(str); // Разбор Json файла
+            return des; // Возвращаем
         }
  
         static void Main(string[] args){
            
-            string str = ""; // Создаём пустую строку для парса Json
+            Root JSON = JsonParse("../testUsername.json");
 
-            Root des = JsonConvert.DeserializeObject<Root>(JsonParse(str)); // Разбор Json файла
-            userName = des.username; //Теперь можем использовать оператор . по отношению к полям нашего Json
+            userName = JSON.username; //Теперь можем использовать оператор . по отношению к полям нашего Json
+            
             Console.Write("ВАШЕ ИМЯ: {0}", userName);
             client = new TcpClient();
             try{
