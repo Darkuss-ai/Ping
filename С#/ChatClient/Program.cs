@@ -10,6 +10,9 @@ namespace ChatClient{
     public class Root{
         public string id { get; set; }
         public string username { get; set; }
+        public string login { get; set; }
+        public string pass { get; set; }
+        public string type { get; set; }
     }
 
 
@@ -33,13 +36,14 @@ namespace ChatClient{
         }
  
         static void Main(string[] args){
-           
+            
             Root JSON = JsonParse("../testUsername.json"); //Просто передаём в функцию нужный для
                                                           // парса файл и в переменной будет то, что нам необходимо.
 
             userName = JSON.username; //Теперь можем использовать оператор . по отношению к полям нашего Json
+            Console.WriteLine("Username's data: login: {0}, pass: {1}, type: {2}", JSON.login, JSON.pass, JSON.type);
             
-            Console.Write("ВАШЕ ИМЯ: {0}", userName);
+            Console.WriteLine("ВАШЕ ИМЯ: {0}", userName);
             client = new TcpClient();
             try{
                 client.Connect(host, port); //подключение клиента
