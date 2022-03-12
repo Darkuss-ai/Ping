@@ -4,15 +4,22 @@ using System.Net.Sockets;
 using System.Text;
 using Newtonsoft.Json;
 using System.IO;
+using System.Collections.Generic;
  
 namespace ChatClient{
 
-    public class Root{
+    public class Data{ // Класс для Json. Поля класса = полям "data" [{}] json файла
+        public string first {get; set;}
+        public string second {get; set;}
+    }
+
+    public class Root{ // Класс для Json. Поля класса = полям json.
         public string id { get; set; }
         public string username { get; set; }
         public string login { get; set; }
         public string pass { get; set; }
         public string type { get; set; }
+        public List<Data> data {get; set;}
     }
 
 
@@ -35,12 +42,12 @@ namespace ChatClient{
             return des; // Возвращаем
         }
  
-        static void Main(string[] args){
-            
+        static void Main(string[] args){ 
             Root JSON = JsonParse("../testUsername.json"); //Просто передаём в функцию нужный для
                                                           // парса файл и в переменной будет то, что нам необходимо.
 
             userName = JSON.username; //Теперь можем использовать оператор . по отношению к полям нашего Json
+            Console.WriteLine("TEST OD INNER. First: {0}, Second: {1}", JSON.data[0].first, JSON.data[0].second); // Выводим вложенные данные из json-файла
             Console.WriteLine("Username's data: login: {0}, pass: {1}, type: {2}", JSON.login, JSON.pass, JSON.type);
             
             Console.WriteLine("ВАШЕ ИМЯ: {0}", userName);
