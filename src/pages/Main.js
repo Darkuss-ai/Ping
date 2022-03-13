@@ -5,8 +5,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShare, faUser, faUsers, faHouse, faMessage, faCog, faSignOutAlt} 
 from '@fortawesome/free-solid-svg-icons'
 import '../css/main.css'
-import Login from '../store/appStore'
-const Main_page = () =>
+import appStore from '../store/appStore'
+const Main_page = observer( () =>
 {
     return <div>
         <main>
@@ -19,7 +19,7 @@ const Main_page = () =>
             </div> */}
         </main>
         <nav className='main_nav'>
-            <button className='menu_button' data>
+            <button className='menu_button'>
                 <FontAwesomeIcon icon={faHouse} />
                 <span className='right' >Домашняя страница</span>
             </button>
@@ -55,12 +55,14 @@ const Main_page = () =>
                 </button>
 
                 <div className='bio'>
-                    <p id='Nickname'>{Login.login}</p>
-                    <p id='Status'>Love yourself</p>
+                    {console.log(appStore.profile['status'])}
+                    <p id='Nickname'>{appStore.profile['username']}</p>
+                    <p id='Status'>{appStore.profile['status']}</p>
                 </div>
             </div>
         </footer>
     </div>
 }
+) 
 
 export default Main_page

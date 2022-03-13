@@ -18,14 +18,14 @@ const Login_page = () =>
 
     const onSubmit = (data) =>
     {
-        const status = 'OK'
+        // const status = 'OK'
 
-        if(status === 'OK')
-        {
-            AppStore.SetLoginStatus('auth')
-            setCookie('ping', data.login, {path: '/'})
-            //navigate('/id')
-        }
+        // if(status === 'OK')
+        // {
+        //     AppStore.SetLoginStatus('auth')
+        //     setCookie('ping', data.login, {path: '/'})
+        //     //navigate('/id')
+        // }
     }
 
 
@@ -36,7 +36,7 @@ const Login_page = () =>
             </header>
 
             <main>
-                <Forms onSubmit = {onSubmit} />
+                <Forms/>
             </main>
 
             <Footer/>

@@ -2,15 +2,12 @@ import {makeAutoObservable} from "mobx";
 
 class localStore
 {
-    wsStatus = 'initial' //'initial', 'connecting', 'connected', 'disconnected'
-    loginStatus = 'notAuth' //'notAuth', 'auth', 'credentError', 'tokenOutdate'
-
+    token = '' 
+    refreshToken = ''
     constructor() { makeAutoObservable(this) }
 
-    SetWsStatus(status) { this.wsStatus = status}
-    
-    SetLoginStatus(status){ this.loginStatus = status }
-
+    SetToken(token) { this.token = token }
+    SetRefreshToken(token) { this.refreshToken = token }
 }
 
 export default new localStore()
