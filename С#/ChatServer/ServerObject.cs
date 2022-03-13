@@ -26,17 +26,12 @@ namespace ChatServer{
         // прослушивание входящих подключений
         protected internal void Listen(){
             try{
-                IPEndPoint ipEndPoint = new IPEndPoint(IPAddress.Any, 11000);
                 tcpListener = new TcpListener(IPAddress.Any, 8888);
-                Socket Tcp = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                Tcp.Bind(ipEndPoint);
                 tcpListener.Start();
-                Tcp.Listen();
                 Console.WriteLine("Сервер запущен. Ожидание подключений...");
  
                 while (true){
                     TcpClient tcpClient = tcpListener.AcceptTcpClient();
-                    Tcp.Accept();
  
                     ClientObject clientObject = new ClientObject(tcpClient, this);
                     Thread clientThread = new Thread(new ThreadStart(clientObject.Process));
