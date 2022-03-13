@@ -1,9 +1,18 @@
 using System;
 using System.Net.Sockets;
-using System.Text;
+using System.Text; 
+using System.Collections.Generic;
+using System.IO;
+using Newtonsoft.Json;
 
 
 namespace ChatServer{
+
+    public class Root{ // Класс для Json. Поля класса = полям json.
+        public string username { get; set; }
+        public string status { get; set; }
+
+    }
     public class ClientObject{
         protected internal string Id { get; private set; }
         protected internal NetworkStream Stream {get; private set;}
@@ -17,13 +26,31 @@ namespace ChatServer{
             server = serverObject;
             serverObject.AddConnection(this);
         }
+
+        static Root JsonParse(string path, out string str){
+            str = "";
+            StreamReader streamReader = new StreamReader(path); // Читаем Json файл
+ 
+            while (!streamReader.EndOfStream) { // До конца файла
+                str += streamReader.ReadLine(); // Вписываем в строку весь файл 
+            }
+            Root des = JsonConvert.DeserializeObject<Root>(str); // Разбор Json файла
+            return des; // Возвращаем
+        }
  
         public void Process(){
+            string str;
+            Root JSON = JsonParse("./testUsername.json", out str);
+            Console.WriteLine(JSON.username);
+            Console.WriteLine(JSON.status);
+            Console.WriteLine(str);
+
             try{
                 Stream = client.GetStream();
                 // получаем имя пользователя
                 string message = GetMessage();
                 userName = message;
+                Console.WriteLine(this.Id);
  
                 message = userName + " вошел в чат";
                 // посылаем сообщение о входе в чат всем подключенным пользователям
@@ -36,6 +63,7 @@ namespace ChatServer{
                         message = String.Format("{0}: {1}", userName, message);
                         Console.WriteLine(message);
                         server.BroadcastMessage(message, this.Id);
+                        Console.WriteLine(this.Id);
                     }
                     catch{
                         message = String.Format("{0}: покинул чат", userName);
