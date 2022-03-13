@@ -1,0 +1,127 @@
+.icon {
+  position: absolute;
+  z-index: 3;
+  -webkit-transform: translate(-70px, 10px);
+          transform: translate(-70px, 10px);
+  cursor: pointer;
+}
+
+.login {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 600px;
+  background: #02465b;
+  color: #f1fcf5;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  -webkit-box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2);
+  box-shadow: 0 5px 10px 2px rgba(34, 60, 80, 0.2);
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+@media (max-width: 768px) {
+  .login {
+    width: 80%;
+  }
+}
+
+.login .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.login .row .form {
+  font-size: 30px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.login .row .selected {
+  color: #27cda5;
+}
+
+.login .forgot {
+  margin-top: 30px;
+  text-decoration: none;
+  color: #27cda5;
+}
+
+.login .form_elem {
+  position: relative;
+  width: 100%;
+  margin: 30px auto 0;
+  font-size: 20px;
+}
+
+.login .form_elem input, .login .form_elem input:-webkit-autofill {
+  -webkit-text-fill-color: #ffffff;
+  -webkit-box-shadow: 0 0 0px 1000px #02465b inset;
+  color: white;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 20px;
+  background: none;
+  width: 100%;
+  height: 40px;
+  padding: 5px 10px;
+  border: 3px solid #f1fcf5;
+  border-radius: 30px;
+  -webkit-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+.login .form_elem input::-webkit-input-placeholder, .login .form_elem input:-webkit-autofill::-webkit-input-placeholder {
+  color: #adadad;
+}
+
+.login .form_elem input::placeholder, .login .form_elem input:-webkit-autofill::placeholder {
+  color: #adadad;
+}
+
+.login .form_elem input:focus, .login .form_elem input:-webkit-autofill:focus {
+  outline: 0;
+  border-color: #27cda5;
+  background: none;
+}
+
+.register_button {
+  background-image: -webkit-gradient(linear, left top, right top, from(#239dd5), color-stop(#40e495), color-stop(#30dd8a), to(#239dd5));
+  background-image: linear-gradient(to right, #239dd5, #40e495, #30dd8a, #239dd5);
+  -webkit-box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+          box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #f1fcf5;
+  cursor: pointer;
+  margin: 30px auto 0 auto;
+  height: 55px;
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+  moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.register_button:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.register_button:focus {
+  outline: none;
+}
+/*# sourceMappingURL=forms.css.map */

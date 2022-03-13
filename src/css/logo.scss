@@ -1,0 +1,47 @@
+@import "constant";
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+$startPosX: 120%;
+$startPosY: -240%;
+
+.wrapper {
+
+  padding-top: 50px;
+  height: 100px;
+  width: 300px;
+  position: absolute;
+  left: 50%;
+  margin-left: -150px;
+
+  .text {
+    font-family: 'Goldman', cursive;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: -15px 5px 20px #404040;
+    z-index: 1;
+    color: white;
+  }
+
+  .drop {
+    height: 18px;
+    width: 18px;
+    border-radius: 15px;
+    background: $color2;
+    position: absolute;
+    top: 67%;
+    left: 24.85%;
+    transform: translate($startPosX, $startPosY) scaleX(0.5);
+    animation: move 2s ease infinite;
+  }
+}
+
+@keyframes move {
+  0% {
+    transform: translate($startPosX, $startPosY) scaleY(0.9);
+  }
+  50% {
+    transform: translate($startPosX, -400%) scaleX(0.5);
+  }
+  100% {
+    transform: translate($startPosX, $startPosY) scaleY(0.9);
+  }
+}
