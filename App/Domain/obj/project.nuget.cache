@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zV1DP5jdRrMS7To9WbUuqikXfjtez+6sG4xX7gFpNKkvEInjUIkWAg54ADOy+sqYC+J+4wOatRudrLEmZllGA==",
+  "dgSpecHash": "+WLoYU9e2XoBUDDRmy62kbrqu2OlCfV+jqVo8OmYsZISf/EHZDbT056r7xj98pPCm896ZUmek8k3cny57DbkxQ==",
   "success": true,
-  "projectFilePath": "e:\\Eng Mine\\App\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

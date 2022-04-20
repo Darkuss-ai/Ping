@@ -10,8 +10,8 @@ using MySqlConnector;
 namespace ChatServer{
 
     public class Root{ // Класс для Json. Поля класса = полям json.
-        public string username { get; set; }
-        public string status { get; set; }
+        public int Id { get; set; }
+        public string name { get; set; }
 
     }
     public class ClientObject{

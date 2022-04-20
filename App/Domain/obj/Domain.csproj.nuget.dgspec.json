@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Eng Mine\\App\\Domain\\Domain.csproj": {}
+    "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "e:\\Eng Mine\\App\\Domain\\Domain.csproj": {
+    "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Eng Mine\\App\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\Eng Mine\\App\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "e:\\Eng Mine\\App\\Domain\\obj\\",
+        "outputPath": "E:\\Eng Mine\\app\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",

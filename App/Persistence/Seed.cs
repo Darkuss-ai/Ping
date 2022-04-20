@@ -103,6 +103,15 @@ namespace Persistence
                     Category = "film",
                     City = "London",
                     Venue = "Cinema",
+                },
+                new Activity
+                {
+                    Title = "Test to VDS",
+                    Date = DateTime.Now.AddMonths(-2),
+                    Description = "Test to VDS",
+                    Category = "Test to VDS",
+                    City = "Test to VDS",
+                    Venue = "Test to VDS",
                 }
             };
 

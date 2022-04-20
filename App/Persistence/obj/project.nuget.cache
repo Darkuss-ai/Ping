@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkmJKE1YEpsmGag4ByB5Uz1dM67vAjPRdz8m6kK+OZMeA++quc96CmHx2v+RPAW+7bI1KzTA3VDdL3uJ/8jrXA==",
+  "dgSpecHash": "wS0khMClLMzdv3Qo3V4SEhyO1NeJ+tl3/a831EvrHjU0YMPc3Gv/CJ7ApfN4397wLum60DmpK023R3PKPqUi4Q==",
   "success": true,
-  "projectFilePath": "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj",
+  "projectFilePath": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

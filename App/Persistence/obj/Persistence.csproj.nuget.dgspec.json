@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj": {}
+    "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "e:\\Eng Mine\\App\\Domain\\Domain.csproj": {
+    "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Eng Mine\\App\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\Eng Mine\\App\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "e:\\Eng Mine\\App\\Domain\\obj\\",
+        "outputPath": "E:\\Eng Mine\\app\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj": {
+    "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj",
+        "projectPath": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng Mine\\App\\Persistence\\obj\\",
+        "outputPath": "E:\\Eng Mine\\app\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "e:\\Eng Mine\\App\\Domain\\Domain.csproj": {
-                "projectPath": "e:\\Eng Mine\\App\\Domain\\Domain.csproj"
+              "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj"
               }
             }
           }

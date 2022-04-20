@@ -11,16 +11,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 
 
 builder.Services.AddDbContext<DataContext>(opt =>
 {
-opt.UseMySql("Server=80.87.198.2;Database=ping;User=moss;Password=YQnAXTRg", ServerVersion.AutoDetect("Server=80.87.198.2;Database=ping;User=moss;Password=YQnAXTRg"));
+    opt.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
     //opt.UseSqlite("Data source=App.db");
 });
 
 var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
-var options = optionsBuilder.UseMySql("Server=80.87.198.2;Database=ping;User=moss;Password=YQnAXTRg", ServerVersion.AutoDetect("Server=80.87.198.2;Database=ping;User=moss;Password=YQnAXTRg")).Options;
+var options = optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)).Options;
 
 
 var app = builder.Build();
@@ -40,7 +42,7 @@ try{
 }
 
 // using(DataContext db = new DataContext(options)){
-//     var ids = db.Server.ToList();
+//     var ids = db.Activities.ToList();
 //     foreach(Activity u in ids){
 //         Console.WriteLine($"{u.Id}" + " " + $"{u.Title}" + " " + $"{u.Date}" + " " + $"{u.Description}"
 //          + " " + $"{u.Category}" + " " + $"{u.City}" + " " + $"{u.Venue}");

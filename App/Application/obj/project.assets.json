@@ -2370,11 +2370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Eng Mine\\App\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Eng Mine\\app\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\Eng Mine\\App\\Application\\Application.csproj",
+      "projectPath": "E:\\Eng Mine\\app\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-      "outputPath": "E:\\Eng Mine\\App\\Application\\obj\\",
+      "outputPath": "E:\\Eng Mine\\app\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2391,11 +2391,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "e:\\Eng Mine\\App\\Domain\\Domain.csproj": {
-              "projectPath": "e:\\Eng Mine\\App\\Domain\\Domain.csproj"
+            "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj"
             },
-            "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\Eng Mine\\App\\Persistence\\Persistence.csproj"
+            "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj": {
+              "projectPath": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj"
             }
           }
         }

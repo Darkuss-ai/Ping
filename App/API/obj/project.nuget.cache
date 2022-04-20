@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALqWB/204ZSqdHkZw0X5WE/TI0rTAjdu/TwufekkOLLBajxO7v554YziUOtVRq/AsDIQ80+YUeXCRULkYEyI+w==",
+  "dgSpecHash": "e2t+fCIAbdkN/TFpr0opHJVdtiYXIeYMu7ALA07TiKkj9cG7Hxcfe6OZVNxYVrPCE/dFcUDpQ0MSOrUxxgCTAA==",
   "success": true,
-  "projectFilePath": "E:\\Eng Mine\\App\\Api\\API.csproj",
+  "projectFilePath": "E:\\Eng Mine\\app\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexey\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -39,6 +39,7 @@
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\Alexey\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\Alexey\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
