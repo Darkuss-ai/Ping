@@ -1,0 +1,17 @@
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Application.deps.json
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Application.dll
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Application.pdb
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Domain.dll
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Persistence.dll
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Persistence.pdb
+E:\Eng Mine\App\Application\bin\Debug\net6.0\Domain.pdb
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.dll
+E:\Eng Mine\App\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.pdb
+E:\Eng Mine\App\Application\obj\Debug\net6.0\ref\Application.dll

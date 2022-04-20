@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "test",
+            "connectString": "@\"Server=(localdb)\\mssqllocaldb;Database=helloappdb;Trusted_Connection=True;\""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "test",
+            "connectString": "@\"Server=(localdb)\\mssqllocaldb;Database=helloappdb;Trusted_Connection=True;\""
+        }
+    ]
+}
