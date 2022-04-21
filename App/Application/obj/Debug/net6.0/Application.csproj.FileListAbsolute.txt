@@ -15,3 +15,20 @@ E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.dll
 E:\Eng Mine\App\Application\obj\Debug\net6.0\refint\Application.dll
 E:\Eng Mine\App\Application\obj\Debug\net6.0\Application.pdb
 E:\Eng Mine\App\Application\obj\Debug\net6.0\ref\Application.dll
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Application.deps.json
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Application.dll
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Application.pdb
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Domain.dll
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Persistence.dll
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Persistence.pdb
+E:\GitRepos\Ping\App\Application\bin\Debug\net6.0\Domain.pdb
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.dll
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\refint\Application.dll
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\Application.pdb
+E:\GitRepos\Ping\App\Application\obj\Debug\net6.0\ref\Application.dll

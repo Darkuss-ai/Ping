@@ -13,3 +13,18 @@ E:\Eng Mine\App\Persistence\obj\Debug\net6.0\Persistence.dll
 E:\Eng Mine\App\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 E:\Eng Mine\App\Persistence\obj\Debug\net6.0\Persistence.pdb
 E:\Eng Mine\App\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\GitRepos\Ping\App\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\GitRepos\Ping\App\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\GitRepos\Ping\App\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\GitRepos\Ping\App\Persistence\bin\Debug\net6.0\Domain.dll
+E:\GitRepos\Ping\App\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\GitRepos\Ping\App\Persistence\obj\Debug\net6.0\ref\Persistence.dll

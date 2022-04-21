@@ -7,32 +7,26 @@ using Newtonsoft.Json;
 
 namespace API.Controllers
 {
-
-    public class Root{ // Класс для Json. Поля класса = полям json.
-        public int Id { get; set; }
-        public string? name { get; set; }
-
-    }
     
     public class ActivitiesController : BaseApiController
     {
         private readonly DataContext _context;
 
-        static Root JsonParse(string path, out string str){
+        static Test_table JsonParse(string path, out string str){
             str = "";
             StreamReader streamReader = new StreamReader(path); // Читаем Json файл
  
             while (!streamReader.EndOfStream) { // До конца файла
                 str += streamReader.ReadLine(); // Вписываем в строку весь файл 
             }
-            Root des = JsonConvert.DeserializeObject<Root>(str); // Разбор Json файла
+            Test_table des = JsonConvert.DeserializeObject<Test_table>(str); // Разбор Json файла
             return des; // Возвращаем
         }
 
 
-        static string ParseToJson(int Id, string name){
-            Root ToJson = new Root();
-            ToJson.Id = Id;
+        static string ParseToJson(int id, string name){
+            Test_table ToJson = new Test_table();
+            ToJson.id = id;
             ToJson.name = name;
             string str = JsonConvert.SerializeObject(ToJson);  
             return str;
@@ -49,10 +43,10 @@ namespace API.Controllers
             ServerVersion.AutoDetect("Server=80.87.198.2;Database=ping;User=moss;Password=YQnAXTRg")).Options;
             string test = ParseToJson(100, "Armen");
             string str;
-            Root Json = JsonParse("../test.txt", out str);
+            Test_table Json = JsonParse("../test.txt", out str);
             var connection = new MySqlConnection("Server=80.87.198.2;Port=3306;Database=ping; Uid=moss; Pwd=YQnAXTRg;");
             connection.Open();
-            var command = new MySqlCommand($"INSERT INTO Test_table (Id, name) VALUES ('{Json.Id}' ,'{Json.name}')", connection);
+            var command = new MySqlCommand($"INSERT INTO Test_table (id, name) VALUES ('{Json.id}' ,'{Json.name}')", connection);
             command.ExecuteScalar();
             Console.WriteLine(test);
             connection.Close();

@@ -1,6 +1,8 @@
 using Persistence;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 using Domain;
+using API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +13,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//ВЕРОЯТНАЯ ПРОБЛЕМА!!!!!!!!!!!!!!!!!!!!!
+builder.Services.AddIdentityServices(builder.Configuration);
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
-
 
 builder.Services.AddDbContext<DataContext>(opt =>
 {
@@ -33,8 +36,9 @@ var services = scope.ServiceProvider;
 
 try{
     var context = services.GetRequiredService<DataContext>();
+    var userManager = services.GetRequiredService<UserManager<AppUser>>();
     await context.Database.MigrateAsync();
-    await Seed.SeedData(context);
+    await Seed.SeedData(context, userManager);
 
 } catch(Exception ex){
     var logger = services.GetRequiredService<ILogger<Program>>();
@@ -47,7 +51,6 @@ try{
 //         Console.WriteLine($"{u.Id}" + " " + $"{u.Title}" + " " + $"{u.Date}" + " " + $"{u.Description}"
 //          + " " + $"{u.Category}" + " " + $"{u.City}" + " " + $"{u.Venue}");
 //     }
-
 // }
 
 

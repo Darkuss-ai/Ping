@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Eng Mine\\app\\Application\\Application.csproj": {}
+    "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj": {}
   },
   "projects": {
-    "E:\\Eng Mine\\app\\Application\\Application.csproj": {
+    "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng Mine\\app\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\Eng Mine\\app\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng Mine\\app\\Application\\obj\\",
+        "projectPath": "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepos\\Ping\\App\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj"
+              "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj"
               },
-              "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj"
+              "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -75,17 +79,21 @@
         }
       }
     },
-    "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
+    "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng Mine\\app\\Domain\\obj\\",
+        "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepos\\Ping\\App\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,6 +119,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -139,17 +151,21 @@
         }
       }
     },
-    "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj": {
+    "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Eng Mine\\app\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng Mine\\app\\Persistence\\obj\\",
+        "projectPath": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepos\\Ping\\App\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,8 +179,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Eng Mine\\app\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Eng Mine\\app\\Domain\\Domain.csproj"
+              "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj"
               }
             }
           }
@@ -179,6 +195,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.4, )"
