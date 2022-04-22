@@ -1,24 +1,36 @@
-E:\Eng Mine\App\Domain\bin\Debug\net6.0\Domain.deps.json
-E:\Eng Mine\App\Domain\bin\Debug\net6.0\Domain.dll
-E:\Eng Mine\App\Domain\bin\Debug\net6.0\Domain.pdb
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.dll
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\refint\Domain.dll
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\Domain.pdb
-E:\Eng Mine\App\Domain\obj\Debug\net6.0\ref\Domain.dll
-E:\GitRepos\Ping\App\Domain\bin\Debug\net6.0\Domain.deps.json
-E:\GitRepos\Ping\App\Domain\bin\Debug\net6.0\Domain.dll
-E:\GitRepos\Ping\App\Domain\bin\Debug\net6.0\Domain.pdb
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.dll
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\refint\Domain.dll
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\Domain.pdb
-E:\GitRepos\Ping\App\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:/Eng Mine/App/Domain/bin/Debug/net6.0/Domain.deps.json
+E:/Eng Mine/App/Domain/bin/Debug/net6.0/Domain.dll
+E:/Eng Mine/App/Domain/bin/Debug/net6.0/Domain.pdb
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.dll
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/refint/Domain.dll
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/Domain.pdb
+E:/Eng Mine/App/Domain/obj/Debug/net6.0/ref/Domain.dll
+E:/GitRepos/Ping/App/Domain/bin/Debug/net6.0/Domain.deps.json
+E:/GitRepos/Ping/App/Domain/bin/Debug/net6.0/Domain.dll
+E:/GitRepos/Ping/App/Domain/bin/Debug/net6.0/Domain.pdb
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.dll
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/refint/Domain.dll
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/Domain.pdb
+E:/GitRepos/Ping/App/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/y0neri/GIT/Ping/App/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/y0neri/GIT/Ping/App/Domain/bin/Debug/net6.0/Domain.dll
+/home/y0neri/GIT/Ping/App/Domain/bin/Debug/net6.0/Domain.pdb
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.dll
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/Domain.pdb
+/home/y0neri/GIT/Ping/App/Domain/obj/Debug/net6.0/ref/Domain.dll

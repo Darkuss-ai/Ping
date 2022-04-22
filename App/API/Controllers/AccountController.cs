@@ -1,10 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authorization;
 using Domain;
 using API.DTOs;
 using API.Services;
 namespace API.Controllers
 {
+    [AllowAnonymous]
     [ApiController]
     [Route("api/[controller]")]
     public class AccountController : ControllerBase
@@ -37,6 +39,12 @@ namespace API.Controllers
                 };
             }
             return Unauthorized();
+        }
+
+        [HttpPost("register")]
+        public async Task<ActionResult<UserDTO>> Register(RegisterDTO registerDTO)
+        {
+            if(await _
         }
     }
 }

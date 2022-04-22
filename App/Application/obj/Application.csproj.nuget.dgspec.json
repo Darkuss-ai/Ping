@@ -1,42 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj": {}
+    "/home/y0neri/GIT/Ping/App/Application/Application.csproj": {}
   },
   "projects": {
-    "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj": {
+    "/home/y0neri/GIT/Ping/App/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj",
+        "projectUniqueName": "/home/y0neri/GIT/Ping/App/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\GitRepos\\Ping\\App\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "E:\\GitRepos\\Ping\\App\\Application\\obj\\",
+        "projectPath": "/home/y0neri/GIT/Ping/App/Application/Application.csproj",
+        "packagesPath": "/home/y0neri/.nuget/packages/",
+        "outputPath": "/home/y0neri/GIT/Ping/App/Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y0neri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj"
+              "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj": {
+                "projectPath": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj"
               },
-              "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj"
+              "/home/y0neri/GIT/Ping/App/Persistence/Persistence.csproj": {
+                "projectPath": "/home/y0neri/GIT/Ping/App/Persistence/Persistence.csproj"
               }
             }
           }
@@ -75,32 +69,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
+    "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj",
+        "projectUniqueName": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "E:\\GitRepos\\Ping\\App\\Domain\\obj\\",
+        "projectPath": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj",
+        "packagesPath": "/home/y0neri/.nuget/packages/",
+        "outputPath": "/home/y0neri/GIT/Ping/App/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y0neri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -147,40 +135,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj": {
+    "/home/y0neri/GIT/Ping/App/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "/home/y0neri/GIT/Ping/App/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\GitRepos\\Ping\\App\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "E:\\GitRepos\\Ping\\App\\Persistence\\obj\\",
+        "projectPath": "/home/y0neri/GIT/Ping/App/Persistence/Persistence.csproj",
+        "packagesPath": "/home/y0neri/.nuget/packages/",
+        "outputPath": "/home/y0neri/GIT/Ping/App/Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y0neri/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\GitRepos\\Ping\\App\\Domain\\Domain.csproj"
+              "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj": {
+                "projectPath": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj"
               }
             }
           }
@@ -227,7 +209,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

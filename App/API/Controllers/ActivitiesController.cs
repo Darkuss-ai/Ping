@@ -2,6 +2,7 @@ using Persistence;
 using Microsoft.AspNetCore.Mvc;
 using Domain;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 using MySqlConnector;
 using Newtonsoft.Json;
 
