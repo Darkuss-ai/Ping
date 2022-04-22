@@ -1987,24 +1987,31 @@
     ]
   },
   "packageFolders": {
-    "/home/y0neri/.nuget/packages/": {}
+    "C:\\Users\\yaros\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj",
+      "projectUniqueName": "E:\\GitRepos\\CloneTest\\Ping\\App\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/y0neri/GIT/Ping/App/Domain/Domain.csproj",
-      "packagesPath": "/home/y0neri/.nuget/packages/",
-      "outputPath": "/home/y0neri/GIT/Ping/App/Domain/obj/",
+      "projectPath": "E:\\GitRepos\\CloneTest\\Ping\\App\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
+      "outputPath": "E:\\GitRepos\\CloneTest\\Ping\\App\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/y0neri/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2051,7 +2058,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

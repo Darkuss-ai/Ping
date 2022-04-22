@@ -1,9 +1,21 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Authorization;
-using Domain;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Http;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
 using API.DTOs;
 using API.Services;
+using Domain;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.WebUtilities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 namespace API.Controllers
 {
     [AllowAnonymous]
@@ -32,11 +44,7 @@ namespace API.Controllers
 
             if (result.Succeeded)
             {
-                return new UserDTO{
-                    DisplayName = user.DisplayName,
-                    Token = _tokenService.CreateToken(user),
-                    Username = user.UserName
-                };
+                return CreateUserObject(user);
             }
             return Unauthorized();
         }
@@ -44,7 +52,49 @@ namespace API.Controllers
         [HttpPost("register")]
         public async Task<ActionResult<UserDTO>> Register(RegisterDTO registerDTO)
         {
-            if(await _
+            if(await _userManager.Users.AnyAsync(x => x.Email == registerDTO.Email))
+            {
+                return BadRequest("Email taken");
+            }
+
+            if(await _userManager.Users.AnyAsync(x => x.UserName == registerDTO.Username))
+            {
+                return BadRequest("Username taken");
+            }
+
+            var user = new AppUser
+            {
+                DisplayName = registerDTO.DisplayName,
+                Email = registerDTO.Email,
+                UserName = registerDTO.Username
+            };
+
+            var result = await _userManager.CreateAsync(user, registerDTO.Password);
+
+            if(result.Succeeded)
+            {
+                return CreateUserObject(user);
+            }
+
+            return BadRequest("Problem registering user");
+        }
+        
+        [HttpGet]
+        public async Task<ActionResult<UserDTO>> GetCurrentUser()
+        {
+            var user = await _userManager.FindByEmailAsync(User.FindFirstValue(ClaimTypes.Email));
+
+            return CreateUserObject(user);
+        }
+
+        private UserDTO CreateUserObject(AppUser user)
+        {
+            return new UserDTO
+                {
+                    DisplayName = user.DisplayName,
+                    Token = _tokenService.CreateToken(user),
+                    Username = user.UserName
+                };
         }
     }
 }
