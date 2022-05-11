@@ -26,7 +26,6 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<DataContext>(opt =>
 {
     opt.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
-    //opt.UseSqlite("Data source=App.db");
 });
 
 var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
@@ -49,15 +48,6 @@ try{
     var logger = services.GetRequiredService<ILogger<Program>>();
     logger.LogError(ex, "An error occured during migration");
 }
-
-// using(DataContext db = new DataContext(options)){
-//     var ids = db.Activities.ToList();
-//     foreach(Activity u in ids){
-//         Console.WriteLine($"{u.Id}" + " " + $"{u.Title}" + " " + $"{u.Date}" + " " + $"{u.Description}"
-//          + " " + $"{u.Category}" + " " + $"{u.City}" + " " + $"{u.Venue}");
-//     }
-// }
-
 
 
 // Configure the HTTP request pipeline.
