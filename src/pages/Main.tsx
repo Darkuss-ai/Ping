@@ -4,8 +4,8 @@ import { useCookies} from 'react-cookie';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShare, faUser, faUsers, faHouse, faMessage, faCog, faSignOutAlt} 
 from '@fortawesome/free-solid-svg-icons'
-import '../css/main.css'
-import appStore from '../store/appStore'
+import '../css/pages/main.css'
+import { store } from '../store/store';
 const Main_page = observer( () =>
 {
     return <div>
@@ -55,9 +55,9 @@ const Main_page = observer( () =>
                 </button>
 
                 <div className='bio'>
-                    {console.log(appStore.profile['status'])}
-                    <p id='Nickname'>{appStore.profile['username']}</p>
-                    <p id='Status'>{appStore.profile['status']}</p>
+                    {/* {console.log(store.appStore.profile['status'])}
+                    <p id='Nickname'>{store.appStore.profile['username']}</p>
+                    <p id='Status'>{store.appStore.profile['status']}</p> */}
                 </div>
             </div>
         </footer>

@@ -1,4 +1,4 @@
-@import "constant";
+@import "../static/constant.scss";
 
 .icon
 {
@@ -49,6 +49,7 @@
     margin-top: $indent;
     text-decoration: none;
     color: $color2;
+    cursor: pointer;
   }
   .form_elem
   {

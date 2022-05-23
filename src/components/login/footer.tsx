@@ -1,5 +1,6 @@
 import React from "react";
-import '../css/footer.css'
+import '../../css/footer/footer.css'
+
 export const Footer = () =>
 {
     return(
@@ -9,5 +10,4 @@ export const Footer = () =>
             </label>
         </footer>
     )
-
 }

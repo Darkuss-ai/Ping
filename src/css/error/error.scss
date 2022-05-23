@@ -1,0 +1,53 @@
+@import "../static/constant.scss";
+
+.errors
+{
+    position: absolute;
+    width: 400px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    right: 0;
+    .error
+    {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: $indent/3 $indent/3 0 $indent/3;
+        background-color: $error;
+        border: 3px solid white;
+        border-radius: $border;
+        color: $text_color_theme1;
+        transition: all 1s ease 0s;
+        //animation: 0.5s ease-in 0s show;
+        p{
+            
+            width:300px;
+            margin: $indent / 2 $indent / 2;
+            word-wrap: break-word;     
+        }
+        .xmark
+        {
+            height: 30px;
+            width: 30px;
+            margin: auto $indent / 2 auto 0;
+            background: rgba(255,255,255,0.9);
+            border: 0;
+            border-radius: 50px;
+            cursor: pointer;
+        }
+    }
+}
+
+@keyframes show {
+    from{
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}

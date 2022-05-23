@@ -1,4 +1,4 @@
-@import "constant";
+@import "../static/constant.scss";
 .footer
 {
   background-color: $color1;
@@ -18,9 +18,4 @@
     width: 40%;
     margin: auto;
   }
-}
-
-.footer_main
-{
-
 }
