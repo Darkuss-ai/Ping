@@ -1,0 +1,478 @@
+E:/Eng Mine/App/API/bin/Debug/net6.0/appsettings.Development.json
+E:/Eng Mine/App/API/bin/Debug/net6.0/appsettings.json
+E:/Eng Mine/App/API/bin/Debug/net6.0/API.exe
+E:/Eng Mine/App/API/bin/Debug/net6.0/API.deps.json
+E:/Eng Mine/App/API/bin/Debug/net6.0/API.runtimeconfig.json
+E:/Eng Mine/App/API/bin/Debug/net6.0/API.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/API.pdb
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Application.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Domain.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Persistence.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Application.pdb
+E:/Eng Mine/App/API/bin/Debug/net6.0/Domain.pdb
+E:/Eng Mine/App/API/bin/Debug/net6.0/Persistence.pdb
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+E:/Eng Mine/App/API/obj/Debug/net6.0/staticwebassets.build.json
+E:/Eng Mine/App/API/obj/Debug/net6.0/staticwebassets.development.json
+E:/Eng Mine/App/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.csproj.CopyComplete
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.dll
+E:/Eng Mine/App/API/obj/Debug/net6.0/refint/API.dll
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.pdb
+E:/Eng Mine/App/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+E:/Eng Mine/App/API/obj/Debug/net6.0/ref/API.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Humanizer.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Eng Mine/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Eng Mine/App/Api/bin/Debug/net6.0/MySqlConnector.dll
+E:/Eng Mine/App/Api/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+E:/Eng Mine/app/api/bin/Debug/net6.0/Newtonsoft.Json.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/appsettings.Development.json
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/appsettings.json
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/API.exe
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/API.deps.json
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/API.runtimeconfig.json
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/API.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/API.pdb
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Humanizer.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/MySqlConnector.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Newtonsoft.Json.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Application.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Domain.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Persistence.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Application.pdb
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Domain.pdb
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Persistence.pdb
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/staticwebassets.build.json
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/staticwebassets.development.json
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.csproj.CopyComplete
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.dll
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/refint/API.dll
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.pdb
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+E:/GitRepos/Ping/App/API/obj/Debug/net6.0/ref/API.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+E:/GitRepos/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/appsettings.Development.json
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/appsettings.json
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/API
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/API.deps.json
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/API.runtimeconfig.json
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/API.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/API.pdb
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Humanizer.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/MySqlConnector.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Application.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Domain.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Persistence.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Application.pdb
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Domain.pdb
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Persistence.pdb
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/staticwebassets.build.json
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/staticwebassets.development.json
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.csproj.CopyComplete
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.dll
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/refint/API.dll
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.pdb
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+/home/y0neri/GIT/Ping/App/API/obj/Debug/net6.0/ref/API.dll
+/home/y0neri/GIT/Ping/App/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.dll
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\refint\API.dll
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.pdb
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\appsettings.Development.json
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\appsettings.json
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\API.exe
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\API.deps.json
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\API.runtimeconfig.json
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\API.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\API.pdb
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Humanizer.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\MySqlConnector.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Application.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Domain.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Persistence.dll
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Application.pdb
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Domain.pdb
+E:\GitRepos\CloneTest\Ping\App\API\bin\Debug\net6.0\Persistence.pdb
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.csproj.CopyComplete
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+E:\GitRepos\CloneTest\Ping\App\API\obj\Debug\net6.0\ref\API.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\appsettings.Development.json
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\appsettings.json
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\API.exe
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\API.deps.json
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\API.runtimeconfig.json
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\API.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\API.pdb
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Humanizer.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\MySqlConnector.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Application.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Domain.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Persistence.dll
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Application.pdb
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Domain.pdb
+E:\Eng Mine\Ping_n\Ping\App\API\bin\Debug\net6.0\Persistence.pdb
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.csproj.CopyComplete
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.dll
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\refint\API.dll
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.pdb
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+E:\Eng Mine\Ping_n\Ping\App\API\obj\Debug\net6.0\ref\API.dll
